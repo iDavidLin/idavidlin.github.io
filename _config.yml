@@ -16,7 +16,7 @@
 title: David's Blog
 email: linyongxi7@gmail.com 
 description: > # this means to ignore newlines until "baseurl:"
- Hi Here is my blog. 
+ Just the blog thing. 
 
 
 baseurl: "" # the subpath of your site, e.g. /blog
