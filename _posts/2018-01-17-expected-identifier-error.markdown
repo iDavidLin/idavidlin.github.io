@@ -7,14 +7,14 @@ categories: [IE, front-end]
 
 Recently we are developing a widgets for product which will using in Windows System. So we have to support IE. Luckily we only need to support IE 9+.
 
-We are using React js library. (ES 6).
-It’s quite simple so far for our component at this moment. And it’s works perfect in the latest version Windows 10 which is version 17XX.
+We are using React js library (15.6.2).
+It’s quite simple so far for our component at the moment. And it works perfectly in the latest version of Windows 10 which is version 17XX.
 
-But when we trying to open that page in Windows 10 (version 16XX) with IE 11. It’s not working with error:
+But when we trying to open that page in Windows 10 (version 16XX) with IE 11. It’s not working, error:
 
 <span style="color:#F50057">`script1010 expected identifier`</span>.
 
-When we trying to debug it in Windows. We found that it works well in emulation 11001 and 10001. Other versions (as list below) are all have the expected identifier error.
+When we trying to debug it in Windows. We found that it works well in emulation version 11001 and 10001. Other versions (as list below) are all having the expected identifier error.
 
 ![IE Version]({{ "/assets/Browser-Emulation.png" | absolute_url }})
 
