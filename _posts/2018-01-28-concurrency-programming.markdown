@@ -113,9 +113,12 @@ Unlike deadlock, threads are not blocked when livelock occurs. They are simply t
 A Livelock Example:
 Let’s see an example: a criminal kidnaps a hostage and he asks for ransom in order to release the hostage. A police agrees to give the criminal the money he wants once the hostage is released. The criminal releases the hostage only when he gets the money. Both are waiting for each other to act first, hence livelock.
 
-
+#### **Reference Links**  
 [Critical Section](https://en.wikipedia.org/wiki/Critical_section)  
 [临界区，互斥量，信号量，事件的区别](http://blog.csdn.net/bao_qibiao/article/details/4516196)  
 [concurrent and parallel programming](https://joearms.github.io/published/2013-04-05-concurrent-and-parallel-programming.html)  
 [Asynchronous vs synchronous execution, what does it really mean?](https://stackoverflow.com/questions/748175/asynchronous-vs-synchronous-execution-what-does-it-really-mean)  
 [Understanding Deadlock, Livelock and Starvation with Code Examples in Java](http://www.codejava.net/java-core/concurrency/understanding-deadlock-livelock-and-starvation-with-code-examples-in-java)
+
+#### **Extended reading**  
+[The Java Memory Model](http://www.cs.umd.edu/~pugh/java/memoryModel/)
