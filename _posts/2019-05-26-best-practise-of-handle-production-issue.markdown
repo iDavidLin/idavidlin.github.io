@@ -51,5 +51,5 @@ categories: [production-issue]
 我们最后怎么办呢？
 我们在各个节点上加了feature toggle。可以随时控制整个事件流。
   
-![Feature toggle]({{"/assets/feature-toggle.jpg"}})
+![Feature toggle]({{"/assets/images/feature-toggle.jpg"}})
 

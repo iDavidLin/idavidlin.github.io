@@ -2,7 +2,7 @@
 layout: post
 title: "About Money"
 date: 2018-10-06
-categories: [feedback]
+categories: [money]
 ---
 最近读吴军的<见识>里面关于钱的一章，有些感触。
 

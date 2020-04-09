@@ -50,7 +50,7 @@ Asynchronous (multi-Threaded):
 <br>
 ### 二、并发(Concurrency)和并行(Parallelism)
 
-![concurrency vs Parallelism]({{"/assets/Concurrency-vs-Parallelism.png"}})
+![concurrency vs Parallelism]({{"/assets/images/Concurrency-vs-Parallelism.png"}})
 
 Concurrent  
 
@@ -68,7 +68,7 @@ Parallel
 In concurrent programming, concurrent accesses to shared resources can lead to unexpected or erroneous behavior, so parts of the program where the shared resource is accessed are protected. This protected section is the **critical section** or **critical region**. It cannot be executed by more than one process. Typically, the critical section accesses a shared resource, such as a data structure, a peripheral device, or a network connection, that would not operate correctly in the context of multiple concurrent accesses.
 
 
-![Critical-Section]({{"/assets/Critical-Section.jpg"}})
+![Critical-Section]({{"/assets/images/Critical-Section.jpg"}})
 
 ### 四、阻塞(Blocking)和非阻塞(Non-Blocking)
 
@@ -80,14 +80,14 @@ In concurrent programming, concurrent accesses to shared resources can lead to u
     not do anything. That's Blocking. You are blocked there. But if you just pull 
     out you phone and just open you twitter or whatever, then you are Non-blocking.
 
-![Blocking-VS-Non-Blocking]({{"/assets/Blocking-VS-Non-Blocking.png"}})
+![Blocking-VS-Non-Blocking]({{"/assets/images/Blocking-VS-Non-Blocking.png"}})
 
 ### 五、锁(Deadlock)、饥饿(Starvation)和活锁(Livelock**
 
 #### **Deadlock**  
 `Deadlock describes a situation where two more threads are blocked because of waiting for each other forever.` When deadlock occurs, the program hangs forever and the only thing you can do is to kill the program.  
 Like the picture below, cars are waiting other cars.
-![Deadlock]({{"/assets/deadlock.jpg"}})
+![Deadlock]({{"/assets/images/deadlock.jpg"}})
 
 <br>
 #### **Starvation**

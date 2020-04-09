@@ -16,7 +16,7 @@ But when we trying to open that page in Windows 10 (version 16XX) with IE 11. It
 
 When we trying to debug it in Windows. We found that it works well in emulation version 11001 and 10001. Other versions (as list below) are all having the expected identifier error.
 
-![IE Version]({{ "/assets/Browser-Emulation.png" | absolute_url }})
+![IE Version]({{ "/assets/images/Browser-Emulation.png" | absolute_url }})
 
 [From microsoft](https://msdn.microsoft.com/en-us/library/ee330730(VS.85).aspx#browser_emulation)
 

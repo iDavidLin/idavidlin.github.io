@@ -13,7 +13,7 @@ A Service Oriented Architecture is a software architecture pattern, which applic
 
 There are 2 main roles in SOA, a service provider and a service consumer. A software agent may play both roles. The Consumer Layer is the point where consumers (human users, other services or third parties) interact with the SOA and Provider Layer consists of all the services defined within the SOA. The following figure shows a quick view of an SOA architecture.
 
-![SOA architecture]({{"/assets/SOA-architecture.png"}}){:width="600px"}
+![SOA architecture]({{"/assets/images/SOA-architecture.png"}}){:width="600px"}
 
 Enterprise Service Bus (ESB) is a style of the integration architecture that allows communication via a common communication bus that consists of a variety of point-to-point connections between providers and consumers . In addition to above, the data storage is shared within all services in SOA.
 
@@ -23,7 +23,7 @@ Microservices is a software architecture pattern in which complex applications a
 
 Microservices must be a real need in the system architecture as it could be designed wrongly. It means a service should be independently deployable, or be able to shut-down a service when is not required in the system and that should not have any impact on other services. The following figure shows a quick view of a Microservices architecture.
 
-<div style="text-align:center"><img src ="/assets/Microservices-architecture.png" /></div>
+<div style="text-align:center"><img src ="/assets/images/Microservices-architecture.png" /></div>
 
 ## 3. Differences between SOA and Microservices
 <table>
