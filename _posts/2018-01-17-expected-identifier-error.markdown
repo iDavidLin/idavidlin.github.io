@@ -2,7 +2,8 @@
 layout: post
 title: "Expected Identifier Error in IE"
 date: 2018-01-17
-categories: [IE, front-end]
+categories: front-end
+tags: [IE, front-end]
 ---
 
 Recently we are developing a widgets for product which will using in Windows System. So we have to support IE. Luckily we only need to support IE 9+.

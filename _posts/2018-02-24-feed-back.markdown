@@ -3,6 +3,7 @@ layout: post
 title: "How to give/recevie Feedback"
 date: 2018-02-24
 categories: [feedback]
+tags: [feedback]
 ---
 
 Luckly the company I am working for it's the company which value feed back as kind of the approach which will help us to be the best.

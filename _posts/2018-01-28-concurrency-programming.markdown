@@ -2,7 +2,8 @@
 layout: post
 title: "Concurrency Programming -- Basic Concepts"
 date: 2018-01-28
-categories: concurrency
+categories: "Computer science"
+tags: concurrency
 ---
 
 Some concepts about concurrency programming.

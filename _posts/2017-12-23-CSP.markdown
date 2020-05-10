@@ -3,6 +3,7 @@ layout: post
 title:  "CPS"
 date:   2017-12-23
 categories: time-management
+tags: time-management
 ---
 冠军高效系统CPS 介绍。听完喜马拉雅的 《尹志豪：60天练就高效竞争力》的一个个人感想。
 

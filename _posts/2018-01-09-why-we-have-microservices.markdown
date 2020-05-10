@@ -2,7 +2,8 @@
 layout: post
 title:  "Why we have microservices"
 date:   2018-01-09
-categories: microservice 
+categories: Microservice 
+tags: microservice 
 ---
 
 Traditionally, software developers created large, monolithic applications which will encompass all the business activities. As the requirements of the application grew, so did the monolith.

@@ -2,7 +2,8 @@
 layout: post
 title: "Microservices VS SOA: What's the difference"
 date: 2018-01-20
-categories: [Microservices, architecture]
+categories: [Miscroservices]
+tags: [Microservices, architecture]
 ---
 Lately I am reading the book [\<Building Microservices: Designing Fine-Grained Systems 1st Edition
 \>](https://www.amazon.com/Building-Microservices-Designing-Fine-Grained-Systems/dp/1491950358), wondering what's the difference between SOA and Microservices.

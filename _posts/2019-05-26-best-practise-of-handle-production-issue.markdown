@@ -2,7 +2,7 @@
 layout: post
 title: "Best Practise of Handle Production Issue"
 date: 2019-05-26
-categories: [production-issue]
+tags: [production-issue]
 ---
 
 这篇文章是读 左耳听风的 《故障处理最佳实践：应对故障》的读后笔记。  
